@@ -1,4 +1,4 @@
-# MCP HexLayer Architecture Guide
+# Perch MCP HexLayer Architecture Guide
 
 This guide provides step-by-step instructions on how to set up an MCP server following a MCP HexLayer Architecture. It outlines this architectural pattern and serves as a template for building robust and maintainable MCP servers from scratch using `uv` and following the MCP Python SDK recommendations. It covers environment setup, manual creation of core files and directories, configuration, and how to add new functionalities.
 
