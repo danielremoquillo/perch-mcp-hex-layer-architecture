@@ -1,0 +1,11 @@
+[project]
+name = "perch-hex-layered-template"
+version = "0.1.0"
+description = "Perch Hex Layered Template"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mcp[cli]>=1.9.3",
+    "pydantic>=2.11.5",
+    "pyyaml>=6.0.2",
+]

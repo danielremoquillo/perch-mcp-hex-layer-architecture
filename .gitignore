@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Distributions / packaging
+.Python
+build/
+dist/
+eggs/
+*.egg
+parts/
+sdist/
+var/
+wheels/
+*.whl
+*.zip
+
+
+# Environments
+.env
+.venv
+env/
+venv/
+venv_*/
+ENV/
+env.bak/
+.direnv/
+
+# Perch specific
+perch.lock
